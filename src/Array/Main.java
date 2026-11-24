@@ -3,5 +3,8 @@ package Array;
 public class Main {
     public static void main(String[] args) {
         System.out.println("ayman");
+        System.out.println("ayman");
+        System.out.println("ayman");
+        System.out.println("ayman");
     }
 }
